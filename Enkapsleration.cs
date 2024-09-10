@@ -13,7 +13,7 @@ namespace InlämningVecka37
         private int cardPin;
         private double cardNumber;
 
-        public BankAccount(string name, int cardPin, double cardNumber)
+        public BankAccount(string name, int cardPin, double cardNumber) // Parametern är skapad för att fråga till sen för info. MEN, följande variablar måste blir gettat och settat som värde.
         {
             Name = name;
             CardPin = cardPin;
@@ -41,7 +41,7 @@ namespace InlämningVecka37
             set { cardNumber = value; }
         }
 
-        public void userDisplayInfo()
+        public void userDisplayInfo() // Hur det kommer se ut efter infon är samlad
         {
             Console.WriteLine($"Name: {Name}, CardNumber: {CardNumber}, CardPin: {CardPin}");
 
