@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Busher\\source\\repos\\InlämningVecka37\\InlämningVecka37.csproj",
+      "projectUniqueName": "C:\\Users\\Busher\\Desktop\\Github\\OOP-Lektion3-inl-mning\\InlämningVecka37.csproj",
       "projectName": "InlämningVecka37",
-      "projectPath": "C:\\Users\\Busher\\source\\repos\\InlämningVecka37\\InlämningVecka37.csproj",
+      "projectPath": "C:\\Users\\Busher\\Desktop\\Github\\OOP-Lektion3-inl-mning\\InlämningVecka37.csproj",
       "packagesPath": "C:\\Users\\Busher\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Busher\\source\\repos\\InlämningVecka37\\obj\\",
+      "outputPath": "C:\\Users\\Busher\\Desktop\\Github\\OOP-Lektion3-inl-mning\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

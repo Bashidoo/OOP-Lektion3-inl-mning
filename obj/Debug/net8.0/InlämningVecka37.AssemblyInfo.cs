@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InlämningVecka37")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77b9fc7cacddd1caf997dd297d174f6e409eb112")]
 [assembly: System.Reflection.AssemblyProductAttribute("InlämningVecka37")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InlämningVecka37")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
