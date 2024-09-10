@@ -19,15 +19,15 @@ namespace InlämningVecka37
             Busher myBusher = new Busher();
             {
 
-            myBusher.namePerson = "Busher"; // ARV attribut exempel från Person klassen (namePerson)
-            myBusher.kickingPower = 400;// Arv attribut
+            myBusher.namePerson = "Busher"; //  attribut exempel från Person klassen (namePerson)
+            myBusher.kickingPower = 400;//  attribut
             }
             myBusher.Punch();
-            Nemanja myNemanja = new Nemanja(); // ny Nemanja object Attribut
+            Nemanja myNemanja = new Nemanja(); // ny Nemanja object 
             {
-                myNemanja.namePerson = "Nemanja";// Arv attribut
-                myNemanja.slappingPower = 300000;// Arv attribut
-                myNemanja.height = 200;// Arv attribut
+                myNemanja.namePerson = "Nemanja";//  attribut
+                myNemanja.slappingPower = 300000;//  attribut
+                myNemanja.height = 200;//  attribut
             }
             myNemanja.Punch();
 
