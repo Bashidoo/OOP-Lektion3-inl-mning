@@ -13,7 +13,10 @@ namespace InlämningVecka37
             MotorCycle myMotorCycle = new MotorCycle(); //ARV
             myMotorCycle.Start(); //ARV
             myMotorCycle.Beep();// ARV
-
+            Console.WriteLine("\n");
+            Console.WriteLine("\n");
+            Console.WriteLine("\n");
+            Console.WriteLine("\n");
 
             // Polymorfism exempel
             Busher myBusher = new Busher();
@@ -31,10 +34,16 @@ namespace InlämningVecka37
             }
             myNemanja.Punch();
 
+            Console.WriteLine("\n");
+            Console.WriteLine("\n");
+            Console.WriteLine("\n");
+
             BankAccount bankAccountObj = new BankAccount("Busher", 1234, 988216641); //Encapsulation the object asks for the parameters of the BankAccount.
             bankAccountObj.userDisplayInfo();
 
-
+            Console.WriteLine("\n");
+            Console.WriteLine("\n");
+            Console.WriteLine("\n");
 
 
             SavingAccount savingAccountObj = new SavingAccount(); //Abstraction

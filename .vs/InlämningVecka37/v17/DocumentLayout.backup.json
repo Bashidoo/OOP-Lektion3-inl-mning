@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Busher\\Desktop\\Github\\OOP-Lektion3-inl-mning\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8ECAC76D-3D53-40E0-9B73-603ECB606162}|Inl\u00E4mningVecka37.csproj|c:\\users\\busher\\desktop\\github\\oop-lektion3-inl-mning\\polymorfism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ECAC76D-3D53-40E0-9B73-603ECB606162}|Inl\u00E4mningVecka37.csproj|solutionrelative:polymorfism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8ECAC76D-3D53-40E0-9B73-603ECB606162}|Inl\u00E4mningVecka37.csproj|c:\\users\\busher\\desktop\\github\\oop-lektion3-inl-mning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8ECAC76D-3D53-40E0-9B73-603ECB606162}|Inl\u00E4mningVecka37.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECAC76D-3D53-40E0-9B73-603ECB606162}|Inl\u00E4mningVecka37.csproj|c:\\users\\busher\\desktop\\github\\oop-lektion3-inl-mning\\enkapsleration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECAC76D-3D53-40E0-9B73-603ECB606162}|Inl\u00E4mningVecka37.csproj|solutionrelative:enkapsleration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8ECAC76D-3D53-40E0-9B73-603ECB606162}|Inl\u00E4mningVecka37.csproj|c:\\users\\busher\\desktop\\github\\oop-lektion3-inl-mning\\arv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8ECAC76D-3D53-40E0-9B73-603ECB606162}|Inl\u00E4mningVecka37.csproj|solutionrelative:arv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ECAC76D-3D53-40E0-9B73-603ECB606162}|Inl\u00E4mningVecka37.csproj|c:\\users\\busher\\desktop\\github\\oop-lektion3-inl-mning\\enkapsleration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ECAC76D-3D53-40E0-9B73-603ECB606162}|Inl\u00E4mningVecka37.csproj|solutionrelative:enkapsleration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8ECAC76D-3D53-40E0-9B73-603ECB606162}|Inl\u00E4mningVecka37.csproj|c:\\users\\busher\\desktop\\github\\oop-lektion3-inl-mning\\polymorfism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECAC76D-3D53-40E0-9B73-603ECB606162}|Inl\u00E4mningVecka37.csproj|solutionrelative:polymorfism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8ECAC76D-3D53-40E0-9B73-603ECB606162}|Inl\u00E4mningVecka37.csproj|c:\\users\\busher\\desktop\\github\\oop-lektion3-inl-mning\\abstraktion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,12 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -46,34 +42,32 @@
               "RelativeToolTip": "Abstraktion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T12:13:39.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T12:13:39.386Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Enkapsleration.cs",
               "DocumentMoniker": "C:\\Users\\Busher\\Desktop\\Github\\OOP-Lektion3-inl-mning\\Enkapsleration.cs",
               "RelativeDocumentMoniker": "Enkapsleration.cs",
               "ToolTip": "C:\\Users\\Busher\\Desktop\\Github\\OOP-Lektion3-inl-mning\\Enkapsleration.cs",
               "RelativeToolTip": "Enkapsleration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T12:10:57.511Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Polymorfism.cs",
               "DocumentMoniker": "C:\\Users\\Busher\\Desktop\\Github\\OOP-Lektion3-inl-mning\\Polymorfism.cs",
               "RelativeDocumentMoniker": "Polymorfism.cs",
               "ToolTip": "C:\\Users\\Busher\\Desktop\\Github\\OOP-Lektion3-inl-mning\\Polymorfism.cs",
               "RelativeToolTip": "Polymorfism.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T12:09:10.097Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T12:09:10.097Z"
             },
             {
               "$type": "Document",
@@ -83,20 +77,19 @@
               "RelativeDocumentMoniker": "ARV.cs",
               "ToolTip": "C:\\Users\\Busher\\Desktop\\Github\\OOP-Lektion3-inl-mning\\ARV.cs",
               "RelativeToolTip": "ARV.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T12:08:56.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T12:08:56.774Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Busher\\Desktop\\Github\\OOP-Lektion3-inl-mning\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Busher\\Desktop\\Github\\OOP-Lektion3-inl-mning\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAqAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Busher\\Desktop\\Github\\OOP-Lektion3-inl-mning\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-09T12:04:54.385Z",
               "EditorCaption": ""
